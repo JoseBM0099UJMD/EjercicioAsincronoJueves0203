@@ -1,0 +1,12 @@
+producto1,2.80
+producto2,5.20
+producto3,8.20
+producto4,3.10
+producto5,5.20
+producto6,2.30
+producto7,2.10
+producto8,4.20
+producto9,9.00
+producto10,7.54
+
+
